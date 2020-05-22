@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">MyApp</string>
-    <string name="Login">Войти</string>
-    <string name="Email">Электронная почта</string>
-    <string name="Password">Пароль</string>
-    <string name="SignOut">Выйти</string>
-    <string name="UserMail">User1@mail.ru</string>
-</resources>
